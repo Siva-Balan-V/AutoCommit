@@ -4,7 +4,7 @@ This repository contains a GitHub Actions workflow that automatically makes a co
 
 ## Workflow
 
-- Runs daily at midnight UTC
+- Runs daily at 10:15 AM IST (04:45 UTC)
 - Updates `generated/heartbeat.txt`
 - Commits and pushes the change if there is a modification
 
