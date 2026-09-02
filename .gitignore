@@ -1,0 +1,8 @@
+# Generated files
+generated/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
